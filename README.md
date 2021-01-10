@@ -10,6 +10,7 @@ adding introduction
 ## Purpose
 
 the purpose is simple to make it useful for the people to learn git.
+purpose is beautiful
 
 ## Deployment
 
