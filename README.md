@@ -21,4 +21,4 @@ we are gonna deploy the project.
 
 ##copyright
 
-2021 copyright git training
+2021 copyright git training @all rights reserved
