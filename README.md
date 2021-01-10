@@ -18,3 +18,6 @@ we are gonna deploy the project.
 
 ## How to contribute
 
+##copyright
+
+2021 copyright git training
